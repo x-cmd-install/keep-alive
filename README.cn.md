@@ -4,13 +4,22 @@
 
 Keep-Alive is a lightweight, cross-platform utility to prevent your system from sleeping. Perfect for uninterrupted downloads, active connections, or long-running tasks, like vibe coding.
 
-![keep-alive](https://repo.x-cmd.io/keep-alive.svg)
+![keep-alive](https://repo.x-cmd.io/keep-alive.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install keep-alive
 ```
+
+## 代码洞察
+
+合计: **6,368** 行代码（覆盖前 5 种语言、共 **40** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 6,368 | 538 | 1,100 | 39 |
+| Markdown | 0 | 145 | 54 | 1 |
 
 ## 源代码
 
@@ -22,7 +31,6 @@ x install keep-alive
 - **最新版本**: `v1.5.3` (2026-05-30)
 - **最近提交**: 2026-05-30
 - **Release 含资产**: 6 个
-- **发布时间**: 2026-05-30T11:55:38Z
 
 ## 流行度
 
@@ -37,17 +45,22 @@ x install keep-alive
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 2 | 2 | 0 | 0 | 0 | 10 |
 | 360d | 2025-09-15 | 12 | 9 | 0 | 0 | 0 | 48 |
+| last720d | 2024-09-20 | 25 | 17 | 0 | 1 | 0 | 116 |
 
-## 代码规模
+## Release 资产
 
-合计: **6,368** 行代码（覆盖前 5 种语言、共 **40** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 6,368 | 538 | 1,100 | 39 |
-| Markdown | 0 | 145 | 54 | 1 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [keep-alive_1.5.3_checksums.txt](https://github.com/stigoleg/keep-alive/releases/download/v1.5.3/keep-alive_1.5.3_checksums.txt) | 484 B | `other` |
+| [keep-alive_Darwin_arm64.tar.gz](https://github.com/stigoleg/keep-alive/releases/download/v1.5.3/keep-alive_Darwin_arm64.tar.gz) | 1.4 MiB | `native/darwin/arm64` |
+| [keep-alive_Darwin_x86_64.tar.gz](https://github.com/stigoleg/keep-alive/releases/download/v1.5.3/keep-alive_Darwin_x86_64.tar.gz) | 1.4 MiB | `native/darwin/x64` |
+| [keep-alive_Linux_arm64.tar.gz](https://github.com/stigoleg/keep-alive/releases/download/v1.5.3/keep-alive_Linux_arm64.tar.gz) | 1.4 MiB | `native/linux/arm64` |
+| [keep-alive_Linux_x86_64.tar.gz](https://github.com/stigoleg/keep-alive/releases/download/v1.5.3/keep-alive_Linux_x86_64.tar.gz) | 1.5 MiB | `native/linux/x64` |
+| [keep-alive_Windows_x86_64.zip](https://github.com/stigoleg/keep-alive/releases/download/v1.5.3/keep-alive_Windows_x86_64.zip) | 1.5 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -58,4 +71,4 @@ keep-alive 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:58:42Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:59:43Z._
