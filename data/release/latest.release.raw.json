@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6186924,
       "digest": "sha256:bdf661ee5fa9d3604634c12764e779cda90e8bd4cd9ac4303ec83798bdfd9c24",
-      "download_count": 2,
+      "download_count": 8,
       "created_at": "2026-10-04T14:40:27Z",
       "updated_at": "2026-10-04T14:40:35Z",
       "browser_download_url": "https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_darwin_universal.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3374025,
       "digest": "sha256:c19b2146958c69171d3a11e298365fd54803b7aa6be8380762f29b7d8b8df00f",
-      "download_count": 1,
+      "download_count": 5,
       "created_at": "2026-10-04T14:40:49Z",
       "updated_at": "2026-10-04T14:40:51Z",
       "browser_download_url": "https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_amd64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 3042313,
       "digest": "sha256:43793c432a95bba1bfae175a7fa55fe5a2370c0e427a6147825a39deb562c925",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-04T14:44:04Z",
       "updated_at": "2026-10-04T14:44:11Z",
       "browser_download_url": "https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_arm64.rpm"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 3051707,
       "digest": "sha256:bc13edeb117f1c82c3f63f2fa49b1cb5bcef7636d10d9a9c6ec6849cd32bb0cc",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-04T14:44:13Z",
       "updated_at": "2026-10-04T14:44:16Z",
       "browser_download_url": "https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_arm64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 6598941,
       "digest": "sha256:ed11d1c34a34326e6b3e18a8cb283a96dc2c7379a7b30f0617a205f3caa5c2cc",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-10-04T14:44:26Z",
       "updated_at": "2026-10-04T14:44:29Z",
       "browser_download_url": "https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_windows_amd64.zip"
