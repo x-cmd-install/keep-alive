@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1878,
       "digest": "sha256:d9e108c03709769d48d6835441b01db6177026ec227106a885eef4f6e89e6400",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-04T14:39:26Z",
       "updated_at": "2026-10-04T14:39:27Z",
       "browser_download_url": "https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6186924,
       "digest": "sha256:bdf661ee5fa9d3604634c12764e779cda90e8bd4cd9ac4303ec83798bdfd9c24",
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2026-10-04T14:40:27Z",
       "updated_at": "2026-10-04T14:40:35Z",
       "browser_download_url": "https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_darwin_universal.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3338521,
       "digest": "sha256:e3dcfe58babd2dcd2fc55059df06354a7fe650eccf4e74535a11aea49d362812",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-04T14:37:42Z",
       "updated_at": "2026-10-04T14:37:46Z",
       "browser_download_url": "https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_386.apk"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3214089,
       "digest": "sha256:44434445ec82af776a0089f98c6a8118cf9efa0ea0651714bffa2c6c28c0e438",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-04T14:40:40Z",
       "updated_at": "2026-10-04T14:40:44Z",
       "browser_download_url": "https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_386.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3484264,
       "digest": "sha256:2c190c630de5a7f8884250109816a7448c4cfae7bfb4d3bf8ad4e9b87d04b1c7",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-04T14:40:45Z",
       "updated_at": "2026-10-04T14:40:47Z",
       "browser_download_url": "https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_amd64.apk"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3361186,
       "digest": "sha256:b35cc310d7dc5f51b0a9848b17c52bf18aafb0888bbef0b254ccbc6608fae900",
-      "download_count": 8,
+      "download_count": 15,
       "created_at": "2026-10-04T14:39:27Z",
       "updated_at": "2026-10-04T14:39:43Z",
       "browser_download_url": "https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_amd64.deb"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3374025,
       "digest": "sha256:c19b2146958c69171d3a11e298365fd54803b7aa6be8380762f29b7d8b8df00f",
-      "download_count": 51,
+      "download_count": 54,
       "created_at": "2026-10-04T14:40:49Z",
       "updated_at": "2026-10-04T14:40:51Z",
       "browser_download_url": "https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_amd64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 6598941,
       "digest": "sha256:ed11d1c34a34326e6b3e18a8cb283a96dc2c7379a7b30f0617a205f3caa5c2cc",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-10-04T14:44:26Z",
       "updated_at": "2026-10-04T14:44:29Z",
       "browser_download_url": "https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_windows_amd64.zip"
