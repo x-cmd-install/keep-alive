@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 3361186,
       "digest": "sha256:b35cc310d7dc5f51b0a9848b17c52bf18aafb0888bbef0b254ccbc6608fae900",
-      "download_count": 16,
+      "download_count": 18,
       "created_at": "2026-10-04T14:39:27Z",
       "updated_at": "2026-10-04T14:39:43Z",
       "browser_download_url": "https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_amd64.deb"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 3374025,
       "digest": "sha256:c19b2146958c69171d3a11e298365fd54803b7aa6be8380762f29b7d8b8df00f",
-      "download_count": 57,
+      "download_count": 58,
       "created_at": "2026-10-04T14:40:49Z",
       "updated_at": "2026-10-04T14:40:51Z",
       "browser_download_url": "https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_amd64.tar.gz"
