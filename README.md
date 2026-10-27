@@ -14,15 +14,15 @@ x install keep-alive
 
 ## Code insight
 
-Total: **28,603** lines of code across **187** files in the top 5 languages.
+Total: **30,449** lines of code across **196** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 28,061 | 2,387 | 2,755 | 173 |
-| Sh | 237 | 66 | 41 | 7 |
-| Python | 200 | 3 | 31 | 3 |
+| Go | 29,712 | 2,560 | 2,862 | 180 |
+| Python | 352 | 4 | 43 | 5 |
+| Sh | 275 | 76 | 44 | 7 |
 | Xml | 49 | 0 | 0 | 1 |
-| Dockerfile | 34 | 11 | 2 | 3 |
+| Dockerfile | 37 | 11 | 2 | 3 |
 
 ## Source
 
@@ -31,8 +31,8 @@ Total: **28,603** lines of code across **187** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.0.0` (2026-10-04)
-- **Last commit**: 2026-10-04
+- **Latest**: `v2.0.1` (2026-10-26)
+- **Last commit**: 2026-10-26
 - **Assets in release**: 20
 
 ## Popularity
@@ -41,43 +41,43 @@ Total: **28,603** lines of code across **187** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 18 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 1 · **Commits**: 263
+- **Releases**: 27 · **Merged PRs**: 18 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 1 · **Commits**: 265
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 1 | 0 | 0 | 1 | 89 |
-| last60d | 2026-08-27 | 1 | 1 | 0 | 0 | 1 | 89 |
-| 90d | 2026-07-28 | 1 | 1 | 0 | 0 | 1 | 89 |
-| last180d | 2026-04-29 | 3 | 3 | 0 | 0 | 1 | 148 |
-| 360d | 2025-10-31 | 12 | 9 | 0 | 0 | 1 | 181 |
-| last720d | 2024-11-05 | 26 | 18 | 0 | 1 | 1 | 263 |
+| 30d | 2026-09-27 | 2 | 1 | 0 | 0 | 1 | 91 |
+| last60d | 2026-08-28 | 2 | 1 | 0 | 0 | 1 | 91 |
+| 90d | 2026-07-29 | 2 | 1 | 0 | 0 | 1 | 91 |
+| last180d | 2026-04-30 | 4 | 3 | 0 | 0 | 1 | 150 |
+| 360d | 2025-11-01 | 13 | 9 | 0 | 0 | 1 | 183 |
+| last720d | 2024-11-06 | 27 | 18 | 0 | 1 | 1 | 265 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/checksums.txt) | 1.8 KiB | `other` |
-| [keepalive_2.0.0_darwin_universal.tar.gz](https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_darwin_universal.tar.gz) | 5.9 MiB | `native/darwin/x64` |
-| [keepalive_2.0.0_linux_386.apk](https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_386.apk) | 3.2 MiB | `other` |
-| [keepalive_2.0.0_linux_386.deb](https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_386.deb) | 3.1 MiB | `other` |
-| [keepalive_2.0.0_linux_386.rpm](https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_386.rpm) | 3.1 MiB | `other` |
-| [keepalive_2.0.0_linux_386.tar.gz](https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_386.tar.gz) | 3.1 MiB | `native/unknown` |
-| [keepalive_2.0.0_linux_amd64.apk](https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_amd64.apk) | 3.3 MiB | `native/linux/x64` |
-| [keepalive_2.0.0_linux_amd64.deb](https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_amd64.deb) | 3.2 MiB | `native/linux/x64` |
-| [keepalive_2.0.0_linux_amd64.rpm](https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_amd64.rpm) | 3.2 MiB | `native/linux/x64` |
-| [keepalive_2.0.0_linux_amd64.tar.gz](https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_amd64.tar.gz) | 3.2 MiB | `native/linux/x64` |
-| [keepalive_2.0.0_linux_arm64.apk](https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_arm64.apk) | 3.0 MiB | `native/linux/arm64` |
-| [keepalive_2.0.0_linux_arm64.deb](https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_arm64.deb) | 2.9 MiB | `native/linux/arm64` |
-| [keepalive_2.0.0_linux_arm64.rpm](https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_arm64.rpm) | 2.9 MiB | `native/linux/arm64` |
-| [keepalive_2.0.0_linux_arm64.tar.gz](https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_arm64.tar.gz) | 2.9 MiB | `native/linux/arm64` |
-| [keepalive_2.0.0_linux_armv7.apk](https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_armv7.apk) | 3.1 MiB | `native/linux/arm` |
-| [keepalive_2.0.0_linux_armv7.deb](https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_armv7.deb) | 3.0 MiB | `native/linux/arm` |
-| [keepalive_2.0.0_linux_armv7.rpm](https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_armv7.rpm) | 3.0 MiB | `native/linux/arm` |
-| [keepalive_2.0.0_linux_armv7.tar.gz](https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_linux_armv7.tar.gz) | 3.0 MiB | `native/linux/arm` |
-| [keepalive_2.0.0_windows_amd64.zip](https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_windows_amd64.zip) | 6.3 MiB | `native/win/x64` |
-| [keepalive_2.0.0_windows_arm64.zip](https://github.com/stigoleg/keep-alive/releases/download/v2.0.0/keepalive_2.0.0_windows_arm64.zip) | 5.6 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/checksums.txt) | 1.8 KiB | `other` |
+| [keepalive_2.0.1_darwin_universal.tar.gz](https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_darwin_universal.tar.gz) | 5.9 MiB | `native/darwin/x64` |
+| [keepalive_2.0.1_linux_386.apk](https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_linux_386.apk) | 3.2 MiB | `other` |
+| [keepalive_2.0.1_linux_386.deb](https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_linux_386.deb) | 3.1 MiB | `other` |
+| [keepalive_2.0.1_linux_386.rpm](https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_linux_386.rpm) | 3.2 MiB | `other` |
+| [keepalive_2.0.1_linux_386.tar.gz](https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_linux_386.tar.gz) | 3.1 MiB | `native/unknown` |
+| [keepalive_2.0.1_linux_amd64.apk](https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_linux_amd64.apk) | 3.4 MiB | `native/linux/x64` |
+| [keepalive_2.0.1_linux_amd64.deb](https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_linux_amd64.deb) | 3.2 MiB | `native/linux/x64` |
+| [keepalive_2.0.1_linux_amd64.rpm](https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_linux_amd64.rpm) | 3.3 MiB | `native/linux/x64` |
+| [keepalive_2.0.1_linux_amd64.tar.gz](https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_linux_amd64.tar.gz) | 3.3 MiB | `native/linux/x64` |
+| [keepalive_2.0.1_linux_arm64.apk](https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_linux_arm64.apk) | 3.0 MiB | `native/linux/arm64` |
+| [keepalive_2.0.1_linux_arm64.deb](https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_linux_arm64.deb) | 2.9 MiB | `native/linux/arm64` |
+| [keepalive_2.0.1_linux_arm64.rpm](https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_linux_arm64.rpm) | 3.0 MiB | `native/linux/arm64` |
+| [keepalive_2.0.1_linux_arm64.tar.gz](https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_linux_arm64.tar.gz) | 2.9 MiB | `native/linux/arm64` |
+| [keepalive_2.0.1_linux_armv7.apk](https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_linux_armv7.apk) | 3.2 MiB | `native/linux/arm` |
+| [keepalive_2.0.1_linux_armv7.deb](https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_linux_armv7.deb) | 3.1 MiB | `native/linux/arm` |
+| [keepalive_2.0.1_linux_armv7.rpm](https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_linux_armv7.rpm) | 3.1 MiB | `native/linux/arm` |
+| [keepalive_2.0.1_linux_armv7.tar.gz](https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_linux_armv7.tar.gz) | 3.1 MiB | `native/linux/arm` |
+| [keepalive_2.0.1_windows_amd64.zip](https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_windows_amd64.zip) | 6.3 MiB | `native/win/x64` |
+| [keepalive_2.0.1_windows_arm64.zip](https://github.com/stigoleg/keep-alive/releases/download/v2.0.1/keepalive_2.0.1_windows_arm64.zip) | 5.7 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -88,4 +88,4 @@ Install metadata for keep-alive lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:36:27Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:10:06Z._
