@@ -47,12 +47,12 @@ Total: **30,449** lines of code across **196** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 2 | 1 | 0 | 0 | 1 | 91 |
-| last60d | 2026-08-30 | 2 | 1 | 0 | 0 | 1 | 91 |
-| 90d | 2026-07-31 | 2 | 1 | 0 | 0 | 1 | 91 |
-| last180d | 2026-05-02 | 4 | 3 | 0 | 0 | 1 | 150 |
-| 360d | 2025-11-03 | 13 | 9 | 0 | 0 | 1 | 183 |
-| last720d | 2024-11-08 | 27 | 18 | 0 | 1 | 1 | 265 |
+| 30d | 2026-09-30 | 2 | 1 | 0 | 0 | 1 | 91 |
+| last60d | 2026-08-31 | 2 | 1 | 0 | 0 | 1 | 91 |
+| 90d | 2026-08-01 | 2 | 1 | 0 | 0 | 1 | 91 |
+| last180d | 2026-05-03 | 4 | 3 | 0 | 0 | 1 | 150 |
+| 360d | 2025-11-04 | 13 | 9 | 0 | 0 | 1 | 183 |
+| last720d | 2024-11-09 | 27 | 18 | 0 | 1 | 1 | 265 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for keep-alive lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:46:53Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T07:05:54Z._
